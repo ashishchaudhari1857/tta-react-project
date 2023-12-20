@@ -1,0 +1,19 @@
+body{
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+:root ,body ,html{
+  background-color:#fff;
+  box-sizing: border-box;
+}
+div ,small,ul ,li ,p, h1,h2,h3,h4,h5,h6 ,html ,span , i,img ,header, label{
+
+    margin: 0;
+    padding: 0;
+    border:0;
+    outline: none;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
